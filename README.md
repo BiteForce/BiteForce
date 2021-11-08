@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max
 - 👀 I’m interested in ML, DL, Data Science, Drug Discovery, Computational Life Sciences and all kinds of innovative ideas
-- 💞️ I’m looking to collaborate on projects involving Pharmacogenomics, Drug Discovery & Development, etc.
+- 💞️ I’m looking to collaborate on projects involving Pharmacogenomics, Drug Discovery & Development, MedTech, Scientific Data Mining etc.
 - 📫 How to reach me: maxschneider@aon.at
 
 <!---
